@@ -36,3 +36,11 @@ The model architecture consists of a convolutional neural network (CNN) followed
 
 ## Results
 The model achieves an accuracy of 84% on the test set and demonstrates promising performance in classifying Alzheimer's disease across multiple stages. For detailed evaluation metrics and analysis, refer to the results directory.
+
+## Acknowledgments
+
+**This project was supervised by Dr. Eman Ayman & Eng. Samer Alaa, who provided invaluable guidance and expertise throughout its development as a part of the CDSS course at Cairo University Faculty of Engineering.**
+
+<div style="text-align: right">
+    <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
+</div>
