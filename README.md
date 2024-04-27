@@ -4,13 +4,6 @@
 
 This repository contains a machine learning model designed for the classification of Alzheimer's disease across multiple stages. The model utilizes various features extracted from brain imaging data to predict the stage of Alzheimer's disease a patient may be in. This README file provides an overview of the model, its usage, and additional information.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Dependencies](#dependencies)
-3. [Dataset](#dataset)
-4. [Model Architecture](#model-architecture)
-5. [Results](#results)
 
 ## Introduction
 
