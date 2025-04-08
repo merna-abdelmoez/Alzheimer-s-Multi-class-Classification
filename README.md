@@ -22,14 +22,13 @@ To run the model, you will need the following dependencies:
 - scikit-learn
 
 ## Dataset
-The dataset used for training and evaluation is not included in this repository due to its large size and privacy concerns. However, you can obtain the dataset from [source link] and preprocess it according to your requirements.
+The dataset used for training and evaluation is not included in this repository due to its large size and privacy concerns. 
 
 ## Model Architecture
 The model architecture consists of a convolutional neural network (CNN) followed by fully connected layers. The CNN extracts relevant features from brain imaging data, which are then fed into the fully connected layers for classification. The model is trained using a multi-class classification approach to predict the stage of Alzheimer's disease.
 
 ## Results
-The model achieves an accuracy of 84% on the test set and demonstrates promising performance in classifying Alzheimer's disease across multiple stages. For detailed evaluation metrics and analysis, refer to the results directory.
-
+The model achieves an accuracy of 84% on the test set and demonstrates promising performance in classifying Alzheimer's disease across multiple stages.
 ## Acknowledgments
 
 **This project was supervised by Dr. Eman Ayman & Eng. Samer Alaa, who provided invaluable guidance and expertise throughout its development as a part of the CDSS course at Cairo University Faculty of Engineering.**
